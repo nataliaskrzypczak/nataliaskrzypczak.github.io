@@ -2,7 +2,8 @@
 
 Welcome to my repository, where you can find IT projects completed during my Data Science course at Infoshare Academy. Below is a brief description of some of these projects:
 
-## Project: Happiness without Borders
+## Project: [Happiness without Borders](https://github.com/nataliaskrzypczak/nataliaskrzypczak.github.io/blob/fdd1f67972cd238320d3e21eed8d2502c84f3dbe/Happiness%20without%20Borders.pdf)
+
 
 ### Synopsis
 The project involved conducting an analysis of happiness indicators and working conditions to select the optimal country for the expansion of a company.

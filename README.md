@@ -17,7 +17,8 @@ The project involved conducting an analysis of happiness indicators and working 
 - PowerPoint
 - Google Cloud
 
-## Project: Do You Want Fries with That?
+## Project: [Do You Want Fries with That?](https://github.com/nataliaskrzypczak/nataliaskrzypczak.github.io/blob/main/Do%20You%20Want%20Fries%20with%20That.html)
+
 
 ### Synopsis
 The project involved developing an analysis of the location and profile of vegetarian restaurants in the United States for an investor, aiming to identify the optimal place to open a restaurant with the potential for popularity.
@@ -65,7 +66,7 @@ Projekt polegał na przeprowadzeniu analizy wskaźników szczęścia oraz warunk
 - PowerPoint
 - Google Cloud
 
-## Projekt: A może frytki do tego?
+## Projekt: [A może frytki do tego?](https://github.com/nataliaskrzypczak/nataliaskrzypczak.github.io/blob/main/Do%20You%20Want%20Fries%20with%20That.html)
 
 ### Konspekt
 Projekt polegał na opracowaniu analizy lokalizacji i profilu wegetariańskiej restauracji w Stanach Zjednoczonych dla inwestora, mającego na celu wskazanie optymalnego miejsca otwarcia lokalu z tendencją do zyskania popularności.

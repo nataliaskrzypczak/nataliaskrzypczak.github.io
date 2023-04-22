@@ -8,7 +8,7 @@ Welcome to my repository, where you can find IT projects completed during my Dat
 The project involved conducting an analysis of happiness indicators and working conditions to select the optimal country for the expansion of a company.
 
 ### Data
-- World Happiness Report from 2015-2019
+- <a href="https://https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Report from 2015-2019</a>
 
 ### Technologies and Tools
 - SQL
@@ -22,7 +22,7 @@ The project involved conducting an analysis of happiness indicators and working 
 The project involved developing an analysis of the location and profile of vegetarian restaurants in the United States for an investor, aiming to identify the optimal place to open a restaurant with the potential for popularity.
 
 ### Data
-- List of restaurants collaborating with Uber Eats in the USA, along with their menu
+- <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus">List of restaurants collaborating with Uber Eats in the USA, along with their menu</a>
 
 ### Technologies and Tools
 - Jupyter Notebook
@@ -56,7 +56,7 @@ Witaj na moim repozytorium, gdzie znajdziesz projekty IT realizowane podczas moj
 Projekt polegał na przeprowadzeniu analizy wskaźników szczęścia oraz warunków pracy w celu wyboru optymalnego kraju dla ekspansji firmy.
 
 ### Dane
-- Światowy Raport Szczęścia z lat 2015-2019
+- <a href="https://https://www.kaggle.com/datasets/unsdsn/world-happiness">Światowy Raport Szczęścia z lat 2015-2019</a>
 
 ### Technologie i Narzędzia
 - SQL
@@ -70,7 +70,7 @@ Projekt polegał na przeprowadzeniu analizy wskaźników szczęścia oraz warunk
 Projekt polegał na opracowaniu analizy lokalizacji i profilu wegetariańskiej restauracji w Stanach Zjednoczonych dla inwestora, mającego na celu wskazanie optymalnego miejsca otwarcia lokalu z tendencją do zyskania popularności.
 
 ### Dane
-- Lista restauracji współpracujących z Uber Eats w USA wraz z menu
+- <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus">Lista restauracji współpracujących z Uber Eats w USA wraz z menu</a>
 
 ### Technologie i Narzędzia
 - Jupyter Notebook

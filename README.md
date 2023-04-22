@@ -1,4 +1,4 @@
-# Projekty Data Science realizowane podczas Bootcampu Infoshare Academy
+# Projekty Data Science - isa
 
 Witaj na moim repozytorium, gdzie znajdziesz projekty IT realizowane podczas mojego kursu Data Science dla Infoshare Academy. Poniżej znajduje się krótki opis kilku z tych projektów:
 

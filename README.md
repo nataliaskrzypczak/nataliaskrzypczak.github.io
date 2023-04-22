@@ -51,7 +51,7 @@ I have provided a brief description of each project, including information about
 
 Witaj na moim repozytorium, gdzie znajdziesz projekty IT realizowane podczas mojego kursu Data Science dla Infoshare Academy. Poniżej znajduje się krótki opis kilku z tych projektów:
 
-## Projekt: Szczęście bez granic
+## Projekt: [Szczęście bez granic](https://github.com/nataliaskrzypczak/nataliaskrzypczak.github.io/blob/fdd1f67972cd238320d3e21eed8d2502c84f3dbe/Happiness%20without%20Borders.pdf)
 
 ### Konspekt
 Projekt polegał na przeprowadzeniu analizy wskaźników szczęścia oraz warunków pracy w celu wyboru optymalnego kraju dla ekspansji firmy.

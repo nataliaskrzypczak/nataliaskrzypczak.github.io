@@ -9,7 +9,7 @@ Welcome to my repository, where you can find IT projects completed during my Dat
 The project involved conducting an analysis of happiness indicators and working conditions to select the optimal country for the expansion of a company.
 
 ### Data
-- <a href="https://https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Report from 2015-2019</a>
+- <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Report from 2015-2019</a>
 
 ### Technologies and Tools
 - SQL
@@ -58,7 +58,7 @@ Witaj na moim repozytorium, gdzie znajdziesz projekty IT realizowane podczas moj
 Projekt polegał na przeprowadzeniu analizy wskaźników szczęścia oraz warunków pracy w celu wyboru optymalnego kraju dla ekspansji firmy.
 
 ### Dane
-- <a href="https://https://www.kaggle.com/datasets/unsdsn/world-happiness">Światowy Raport Szczęścia z lat 2015-2019</a>
+- <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness">Światowy Raport Szczęścia z lat 2015-2019</a>
 
 ### Technologie i Narzędzia
 - SQL
